@@ -8,7 +8,12 @@ body {
 }
 .farmacia {
     width: 30%;
+    left: 50%;
     height: 20%;
     margin-top: 0%;
 
 }
+.ini{
+    background-image: url("imagem_noticia_1_0.png");
+}
+
