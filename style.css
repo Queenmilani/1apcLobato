@@ -16,4 +16,8 @@ body {
 .ini{
     background-image: url("imagem_noticia_1_0.png");
 }
+.button{
+display: inline-block;
+}
+
 
